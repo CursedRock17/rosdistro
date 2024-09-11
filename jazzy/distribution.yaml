@@ -7878,6 +7878,11 @@ repositories:
       url: https://github.com/clalancette/sophus.git
       version: release/1.22.x
     status: maintained
+  space-ros:
+    doc:
+      type: git
+      url: https://github.com/space-ros/space-ros.git
+      version: jazzy
   spatio_temporal_voxel_layer:
     doc:
       type: git
